@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## 📖 About Me
+I'm a cross-functional software engineer with over 4+ years of industry experience with deep expertise across data engineering, machine learning / AI, backend systems, and iOS development. I specialize in building scalable, cloud-native solutions—ranging from robust backend infrastructure and data pipelines to deployed ML models and seamless mobile experiences.
+
 <!--
 **NikhilDhiman/NikhilDhiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
