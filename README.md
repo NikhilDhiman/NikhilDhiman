@@ -1,36 +1,30 @@
 ## Hi there 👋
 
 ## 📖 About Me
-I'm a cross-functional software engineer with over 4+ years of industry experience with deep expertise across data engineering, machine learning / AI, backend systems, and iOS development. I specialize in building scalable, cloud-native solutions—ranging from robust backend infrastructure and data pipelines to deployed ML models and seamless mobile experiences.
+I'm a cross-functional software engineer with over 4+ years of industry experience with deep expertise across **data engineering**, **machine learning**, **Artificial intelligence, backend systems (API), and iOS development**. I specialize in building scalable, cloud-native solutions—ranging from robust backend infrastructure and data pipelines to deployed ML models and seamless mobile experiences.
 
 
-## 🛠️ Technical Skills
-
-**Languages & Frameworks:** Python, Java, Scala, Swift, JavaScript, Go, C/C++, C#, Kotlin, Node.js, Django, Flutter
-
-**Data Engineering & ML/AI:** Apache Spark, Hadoop, Hive, Airflow, Kafka, Sqoop, TensorFlow, PyTorch, Scikit-learn, Keras, OpenCV, Pandas, NumPy, UMAP, t-SNE
-
-**Mobile Development:** iOS (UIKit, SwiftUI, Combine), Core ML, Firebase, Realm, Fastlane, XCTest, Push Notifications, App Store Connect
-
-**Backend & APIs:** REST API, GraphQL, gRPC, WebSockets, JWT, OAuth2, Microservices, Serverless (AWS Lambda), Redis, Postman
-
-**Databases & Storage:** PostgreSQL, MySQL, MongoDB, DynamoDB, Redis, Snowflake, BigQuery, SQLite
-
-**DevOps & Platforms:** Git, GitHub Actions, Jenkins, Docker, Kubernetes, Terraform, AWS (EC2, S3, Lambda, RDS, SQS), GCP, Azure, Firebase
-
-**Tools & IDEs:** Xcode, Android Studio, VS Code, IntelliJ, Postman, Charles Proxy, JIRA, Confluence
+### 🛠️ Technical Skills
+| **Category**           | **Technologies**                                                                 |
+|------------------------|----------------------------------------------------------------------------------|
+| **Languages**          | Python, Swift, Java, Scala, Go, JavaScript, TypeScript, Kotlin, C/C++, C#             |
+| **Data Engineer & AI/ML**          | Spark, Airflow, Kafka, Sqoop, Hive, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, UMAP, PCA, Features Extraction   |
+| **Mobile Development** | iOS (UIKit, SwiftUI, Combine), Core ML, Firebase, Realm, Fastlane, XCTest       |
+| **Backend & Rest APIs**     | Node.js, .Net, Django, REST, GraphQL, gRPC, OAuth2, WebSockets, Serverless, Redis     |
+| **Databases**          | PostgreSQL, MongoDB, MySQL, DynamoDB, Snowflake, BigQuery, Redis                |
+| **DevOps & Cloud**     | Docker, Kubernetes, Jenkins, Terraform, GitHub Actions, AWS, GCP, Azure         |
+| **Tools & IDEs**       | Xcode, Android Studio, VS Code, IntelliJ, Postman, Charles Proxy, JIRA          |
 
 
 ## 📚 Education
-
 - **Master of Science in Computer Science**
   - California State University, Los Angeles, USA
 
 - **Bachelor of Technology in Computer Science**
   - Dr. A. P. J. Abdul Kalam Technical University, Lucknow, India
 
-## 📫 Let's Connect
 
+## 📫 Let's Connect
 - 📧 Email: [nikhildhiman.cs@gmail.com]
 - 💼 LinkedIn: [linkedin.com/in/nikhil-dhiman](https://www.linkedin.com/in/nikhil-dhiman/)
 
