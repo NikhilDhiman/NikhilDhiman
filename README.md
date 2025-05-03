@@ -3,7 +3,13 @@
 ## 📖 About Me
 I'm a cross-functional software engineer with over 4+ years of industry experience with deep expertise across data engineering, machine learning / AI, backend systems, and iOS development. I specialize in building scalable, cloud-native solutions—ranging from robust backend infrastructure and data pipelines to deployed ML models and seamless mobile experiences.
 
+## 📚 Education
 
+- **Master of Science in Computer Science**
+  - California State University, Los Angeles, USA
+
+- **Bachelor of Technology in Computer Science**
+  - Dr. A. P. J. Abdul Kalam Technical University, Lucknow, India
 
 ## 📫 Let's Connect
 
