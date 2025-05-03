@@ -24,6 +24,11 @@ I'm a cross-functional software engineer with over 4+ years of industry experien
   - Dr. A. P. J. Abdul Kalam Technical University, Lucknow, India
 
 
+ ## 📈 GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NikhilDhiman&theme=dark)](https://git.io/streak-stats)
+
+
 ## 📫 Let's Connect
 - 📧 Email: [nikhildhiman.cs@gmail.com]
 - 💼 LinkedIn: [linkedin.com/in/nikhil-dhiman](https://www.linkedin.com/in/nikhil-dhiman/)
