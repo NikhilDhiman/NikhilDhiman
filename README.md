@@ -26,7 +26,6 @@ I'm a cross-functional software engineer with over 4+ years of industry experien
 
 ## 📊 GitHub Analytics
 
-![Nikhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikhilDhiman&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NikhilDhiman&theme=dark)
 
 
