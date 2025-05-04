@@ -32,7 +32,8 @@ I'm a cross-functional software engineer with over 4+ years of industry experien
 ## 📫 Let's Connect
 - 📧 Email: [nikhildhiman.cs@gmail.com]
 - 💼 LinkedIn: [linkedin.com/in/nikhil-dhiman](https://www.linkedin.com/in/nikhil-dhiman/)
-
+- 📝 Medium: [medium.com/@nikhildhiman](https://medium.com/@nikhildhiman)
+  
 <!--
 **NikhilDhiman/NikhilDhiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
