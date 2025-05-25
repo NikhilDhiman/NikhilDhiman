@@ -18,7 +18,7 @@ I'm a cross-functional software engineer with over 4+ years of industry experien
 
 ## 📚 Education
 - **Master of Science in Computer Science**
-  - California State University, Los Angeles, USA
+  - California State University, Los Angeles, United States of America
 
 - **Bachelor of Technology in Computer Science**
   - Dr. A. P. J. Abdul Kalam Technical University, Lucknow, India
